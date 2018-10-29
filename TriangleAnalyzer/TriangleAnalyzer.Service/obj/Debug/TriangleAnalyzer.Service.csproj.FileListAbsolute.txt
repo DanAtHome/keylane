@@ -1,0 +1,7 @@
+C:\Users\DanjAdamBjørkAyla\source\repos\TriangleAnalyzer\TriangleAnalyzer.Service\obj\Debug\TriangleAnalyzer.Service.csprojAssemblyReference.cache
+C:\Users\DanjAdamBjørkAyla\source\repos\TriangleAnalyzer\TriangleAnalyzer.Service\obj\Debug\TriangleAnalyzer.Service.csproj.CoreCompileInputs.cache
+C:\Users\DanjAdamBjørkAyla\source\repos\TriangleAnalyzer\TriangleAnalyzer.Service\bin\Debug\TriangleAnalyzer.Service.dll.config
+C:\Users\DanjAdamBjørkAyla\source\repos\TriangleAnalyzer\TriangleAnalyzer.Service\bin\Debug\TriangleAnalyzer.Service.dll
+C:\Users\DanjAdamBjørkAyla\source\repos\TriangleAnalyzer\TriangleAnalyzer.Service\bin\Debug\TriangleAnalyzer.Service.pdb
+C:\Users\DanjAdamBjørkAyla\source\repos\TriangleAnalyzer\TriangleAnalyzer.Service\obj\Debug\TriangleAnalyzer.Service.dll
+C:\Users\DanjAdamBjørkAyla\source\repos\TriangleAnalyzer\TriangleAnalyzer.Service\obj\Debug\TriangleAnalyzer.Service.pdb

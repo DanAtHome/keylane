@@ -1,0 +1,15 @@
+C:\Users\DanjAdamBjørkAyla\source\repos\TriangleAnalyzer\TriangleAnalyzer.Infrastructure\obj\Debug\TriangleAnalyzer.Infrastructure.csprojAssemblyReference.cache
+C:\Users\DanjAdamBjørkAyla\source\repos\TriangleAnalyzer\TriangleAnalyzer.Infrastructure\obj\Debug\TriangleAnalyzer.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DanjAdamBjørkAyla\source\repos\TriangleAnalyzer\TriangleAnalyzer.Infrastructure\bin\Debug\TriangleAnalyzer.Infrastructure.dll.config
+C:\Users\DanjAdamBjørkAyla\source\repos\TriangleAnalyzer\TriangleAnalyzer.Infrastructure\bin\Debug\TriangleAnalyzer.Infrastructure.dll
+C:\Users\DanjAdamBjørkAyla\source\repos\TriangleAnalyzer\TriangleAnalyzer.Infrastructure\bin\Debug\TriangleAnalyzer.Infrastructure.pdb
+C:\Users\DanjAdamBjørkAyla\source\repos\TriangleAnalyzer\TriangleAnalyzer.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\DanjAdamBjørkAyla\source\repos\TriangleAnalyzer\TriangleAnalyzer.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DanjAdamBjørkAyla\source\repos\TriangleAnalyzer\TriangleAnalyzer.Infrastructure\bin\Debug\TriangleAnalyzer.Service.dll
+C:\Users\DanjAdamBjørkAyla\source\repos\TriangleAnalyzer\TriangleAnalyzer.Infrastructure\bin\Debug\TriangleAnalyzer.Service.pdb
+C:\Users\DanjAdamBjørkAyla\source\repos\TriangleAnalyzer\TriangleAnalyzer.Infrastructure\bin\Debug\TriangleAnalyzer.Service.dll.config
+C:\Users\DanjAdamBjørkAyla\source\repos\TriangleAnalyzer\TriangleAnalyzer.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\DanjAdamBjørkAyla\source\repos\TriangleAnalyzer\TriangleAnalyzer.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DanjAdamBjørkAyla\source\repos\TriangleAnalyzer\TriangleAnalyzer.Infrastructure\obj\Debug\TriangleAnalyzer.Infrastructure.csproj.CopyComplete
+C:\Users\DanjAdamBjørkAyla\source\repos\TriangleAnalyzer\TriangleAnalyzer.Infrastructure\obj\Debug\TriangleAnalyzer.Infrastructure.dll
+C:\Users\DanjAdamBjørkAyla\source\repos\TriangleAnalyzer\TriangleAnalyzer.Infrastructure\obj\Debug\TriangleAnalyzer.Infrastructure.pdb
